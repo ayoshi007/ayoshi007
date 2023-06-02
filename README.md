@@ -1,4 +1,6 @@
-Hello, I'm ayoshi007. I'm a university student.
-This GitHub profile is where I'll be placing my projects, both personal and school (if permitted), as I progress through my education and beyond.
+### Hi, I'm Akihiro Yoshimoto!
+This GitHub profile serves as my portfolio, where I'll be placing my personal projects.
 
-I'm interested in machine learning, computer networks, emulation, embedded systems, operating systems, and a little bit of game development.
+I'm interested in machine learning, embedded systems, operating systems, and a little bit of game development.
+
+Right now, I'm working on a C++ minesweeper clone with a terminal UI to learn about developing C++ projects.
