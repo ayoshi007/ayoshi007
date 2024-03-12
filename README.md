@@ -1,5 +1,5 @@
 ### Hi, I'm Akihiro Yoshimoto!
-Currently working and studying as a part-time graduate student (very sleepy!)
+Currently working full-time and studying as a part-time graduate student (very sleepy!)
 
 Things I want to look into:
 - Go
