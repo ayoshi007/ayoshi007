@@ -1,6 +1,18 @@
 ### Hi, I'm Akihiro Yoshimoto!
-This GitHub profile serves as my portfolio, where I'll be placing my personal projects.
+Currently working and studying as a part-time graduate student (very sleepy!)
 
-I'm interested in learning more about machine learning, software engineering, graphics programming, game development, and low-level systems (embedded, maybe RTOSes?).
-For some of these topics, like ML, graphics, and game dev, I do need more background in foundational concepts like linear algebra and graphics algorithms.
+Things I want to look into:
+- Go
+- Lua for Neovim
+- Python web frameworks (Django, FastAPI)
+- JavaScript frontends (Vue, HTMX)
+- WebGL
+- Real time web connections (WebSockets and WebRTC, esp. for games)
+- C++ SFML
 
+Things on my radar:
+- Rust
+- Google Firebase
+- Using Docker containers for development
+- NixOS
+- Learning more about window managers
