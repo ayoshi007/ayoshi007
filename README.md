@@ -16,5 +16,6 @@ Things on my radar:
 - Using Docker containers for development
 - NixOS
 - Compilers and interpreters
+- Understanding the HTTP protocol
 - xv6, Pintos
 - Learning more about window managers
