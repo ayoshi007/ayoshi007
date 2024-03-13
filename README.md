@@ -15,4 +15,6 @@ Things on my radar:
 - Google Firebase
 - Using Docker containers for development
 - NixOS
+- Compilers and interpreters
+- xv6, Pintos
 - Learning more about window managers
