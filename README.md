@@ -1,4 +1,4 @@
-### Hi, I'm Akihiro Yoshimoto!
+### Hi!
 Currently working full-time and studying as a part-time graduate student (very sleepy!)
 
 Things I want to look into:
